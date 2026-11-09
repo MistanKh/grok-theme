@@ -34,7 +34,7 @@ The reference UI is almost entirely monochrome. This theme keeps it that way:
 
 | Role | Obsidian | Parchment |
 | --- | --- | --- |
-| App / editor | `#121212` / `#101010` | `#F4F3F0` / `#FBFBF9` |
+| App / editor | `#141414` / `#141414` | `#F4F3F0` / `#FBFBF9` |
 | Raised surface | `#1E1E1E` | `#FFFFFF` |
 | Text / muted | `#E6E4DF` / `#9A9892` | `#242422` / `#686866` |
 | Accent (focus, links, selection) | `#A9BCCB` | `#4C6478` |
